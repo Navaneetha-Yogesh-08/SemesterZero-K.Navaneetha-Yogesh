@@ -7,3 +7,4 @@
 - **Career Goal:** Ethical Hacker
 - **Favourite Technology:** AI
 - **Interesting Fact:** I have more intresting to learn new topics
+-**I successfully completed my first GitHub repository.**
